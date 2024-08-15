@@ -1,0 +1,62 @@
+body{
+   background-color: rgb(87, 177, 57)
+   ;
+}
+a{
+    color: rgb(12, 121, 79);
+    position: sticky;
+    bottom: 0px;
+}
+
+
+p{
+  color: rgb(15, 15, 90);  
+}
+
+li{
+    color: aqua;
+}
+.aa{
+  position: sticky;
+  top: 0%;
+}
+h1{
+  text-align: center;
+  
+  background-color: rgb(87, 177, 57);
+  
+  
+}
+form{
+  text-align: center;
+  margin: 20px;
+  bottom: 52cm
+}
+
+img{
+  height: 183px; 
+  width: ;
+}
+ 
+#for-container{
+  display: grid;
+  grid-template-columns: 0.1 20px 5px;
+}
+
+#for-container > form{
+  width: auto;
+  height: auto;
+  margin: 10opx;
+  font-size: medium;
+}
+#for5{
+  grid-column: ;
+}
+
+#cli{
+  width: 400px;
+}
+
+.cont{
+  left: 49px;
+}
